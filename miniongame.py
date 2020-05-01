@@ -5,6 +5,7 @@ def minion_game(string):
     for i in range(len(string)):
         if string[i] in vowels:
             ks+=(len(string)-i)
+
         else:
             ss+=(len(string)-i)
     if ks>ss:
