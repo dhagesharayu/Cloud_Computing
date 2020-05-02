@@ -3,7 +3,10 @@
 ### Steps to follow:
 1. Login into your linux terminal.
 2. Check whether python interpreter is available is your terminal, linux by default provides python interpreter.
-* You can do this excuting of either of this command: ```pthon``` or ```python --version```   
+* You can do this excuting of either of this command: ```pthon``` or ```python --version```
+![image](https://user-images.githubusercontent.com/63589909/80866152-e4d95a00-8caa-11ea-95d7-45abd4625d3a.png)
+* What you see in the above screenshot is similar to python IDLE,so you nrrd to exit it. Syntax: ```exit()```
+
 ```
 def minion_game(string):
     # your code goes here
