@@ -16,4 +16,5 @@ if __name__ == '__main__':
     merge_the_tools(string, k)
 ```
 * Output after excuting on linux terminal:\
+![image](https://user-images.githubusercontent.com/63589909/80864526-d9813100-8ca0-11ea-847c-67866b32346c.png)
 
