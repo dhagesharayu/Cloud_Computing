@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/63589909/80866310-8d87b980-8cab-11ea-91ce-2fdcad88016c.png)
 3. Make an directory to store program you want to execute. ```mkdir python``` This make a directory in your ssd called python.
 4. Enter into the python folder where you plan to store your code with ```cd python``` command.
-
+![image](https://user-images.githubusercontent.com/63589909/80866775-3cc59000-8cae-11ea-81d1-94ce28fc8760.png)
 5. Once in can create a python script with ``` vi miniongame.py``` command.
 * Here your enter into the file on pressing ```i```, you enter insert mode.
 ```
