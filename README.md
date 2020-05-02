@@ -32,9 +32,13 @@ if __name__ == '__main__':
     s = raw_input()
     minion_game(s)
 ```
+* Type the command given above:
 * Press ```Esc``` key to escape insert mode and type ```:wq``` to write your code into the file come out of the file.
+![image](https://user-images.githubusercontent.com/63589909/80866823-857d4900-8cae-11ea-901e-891fe01aab44.png)
+6. Now simply execute the filw with the command ```python miniongame.py``` i.e ```python path+file_name```
 
-Type the command given above
+### You can also run local python file by simply uploading or copying them in the python directory.
+
 
 
 
