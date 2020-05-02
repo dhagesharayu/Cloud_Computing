@@ -41,10 +41,10 @@ if __name__ == '__main__':
 ### You can also run local python file by simply uploading or copying them in the python directory.
 
 ### Some other examples of python programs:
-1. []()
-2. []()
-3. [Staircase]()
-4. []()
+1. [Find Runner Up](https://github.com/dhagesharayu/Cloud_Computing/blob/Python_on_linux/find_runner_up.md)
+2. [List Comprehension](https://github.com/dhagesharayu/Cloud_Computing/blob/Python_on_linux/list_comprehension.md)
+3. [Staircase](https://github.com/dhagesharayu/Cloud_Computing/blob/Python_on_linux/staircase.md)
+4. [Merge the Tools](https://github.com/dhagesharayu/Cloud_Computing/blob/Python_on_linux/merge_the_tools.md)
 
 
 
