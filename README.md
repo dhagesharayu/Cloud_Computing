@@ -36,9 +36,15 @@ if __name__ == '__main__':
 * Press ```Esc``` key to escape insert mode and type ```:wq``` to write your code into the file come out of the file.
 ![image](https://user-images.githubusercontent.com/63589909/80866823-857d4900-8cae-11ea-901e-891fe01aab44.png)
 6. Now simply execute the filw with the command ```python miniongame.py``` i.e ```python path+file_name```
+![image](https://user-images.githubusercontent.com/63589909/80867224-a9418e80-8cb0-11ea-991a-af069326f4b0.png)
 
 ### You can also run local python file by simply uploading or copying them in the python directory.
 
+### Some other examples of python programs:
+1. []()
+2. []()
+3. [Staircase]()
+4. []()
 
 
 
