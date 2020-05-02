@@ -14,3 +14,4 @@ if __name__ == '__main__':
     staircase(n)
 ```
 * Output after executing code on linux terminal:\
+![image](https://user-images.githubusercontent.com/63589909/80864782-7395a900-8ca2-11ea-9e00-03fa4210dbb2.png)
