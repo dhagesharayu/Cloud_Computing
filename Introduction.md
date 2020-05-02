@@ -16,8 +16,8 @@ All the above mentioned clouds have to be payed for.
 ---
 ## Advantages
 1. Lower cost:
-  - *as rent is pay as you go and not on contract*
-  - *It is calculate on per hour basis and also what resources you are using and for how much time*
+  - *as rent is pay as you go and not on contract.*
+  - *It is calculate on per hour basis and also what resources you are using and for how much time.*
 2. Scale up and down on demand i.e resources etc.
 3. Provides faster processing and download speed, free internet, electricity as long as you are using it(running).
 4. Faster development and deployment.
