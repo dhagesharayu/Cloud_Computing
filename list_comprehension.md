@@ -16,3 +16,4 @@ if __name__ == '__main__':
     print(a)
 ```
 * Output after running on linux terminal:\
+![image](https://user-images.githubusercontent.com/63589909/80864660-bf941e00-8ca1-11ea-8385-3817a8137875.png)
