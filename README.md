@@ -23,4 +23,7 @@ All the above mentioned clouds have to be payed for.
 4. Faster development and deployment.
 5. Outsource management, administration(backend) handled by provider of cloud computing services.
 
+### [Some of the Services Available](https://github.com/dhagesharayu/Cloud_Computing/tree/Services)
+### [Guide to execute python programs on linux terminal with some examples](https://github.com/dhagesharayu/Cloud_Computing/tree/Python_on_linux)
+
 
