@@ -1,1 +1,0 @@
-## Diagonal sum difference
