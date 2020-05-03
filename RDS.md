@@ -80,3 +80,4 @@
 25. Once done you can simply select your database and go to action and stop or if not required terminate it.
 ![image](https://user-images.githubusercontent.com/63589909/80911858-7eaa1100-8d56-11ea-9970-77b18d54ded7.png)
 * Or you could also change some of its configuration and restart it.
+### [For more information on AWS RDS](https://docs.aws.amazon.com/rds/index.html?nc2=h_ql_doc_rds) 
