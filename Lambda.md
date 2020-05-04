@@ -100,3 +100,4 @@
 ![image](https://user-images.githubusercontent.com/63589909/80990969-ee062a80-8e54-11ea-8107-881f005ba3cb.png)
 
 </details>
+### [For more info on Lambda](https://aws.amazon.com/lambda/)
