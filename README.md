@@ -15,7 +15,7 @@ different types of clouds such as:
 All the above mentioned clouds have to be payed for.
 ---
 
-<details open>
+<details>
 <summary>Advantages</summary>
 <br>
 
