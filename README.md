@@ -6,3 +6,5 @@ Various computing, storage, ML etc. services are available.
 ### [RDS](https://github.com/dhagesharayu/Cloud_Computing/blob/Services/RDS.md)
 ### [IAM](https://github.com/dhagesharayu/Cloud_Computing/blob/Services/IAM.md)
 ### [Lambda](https://github.com/dhagesharayu/Cloud_Computing/blob/Services/Lambda.md)
+### [CloudTrail](https://github.com/dhagesharayu/Cloud_Computing/blob/Services/CloudTrail.md)
+### [CloudWatch](https://github.com/dhagesharayu/Cloud_Computing/blob/Services/CloudWatch.md)
