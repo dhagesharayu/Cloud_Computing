@@ -7,5 +7,5 @@
 ![image](https://user-images.githubusercontent.com/63589909/80995321-b8187480-8e5b-11ea-94a2-4466d0634850.png)
 3. You can click on any event for more information.
 ![image](https://user-images.githubusercontent.com/63589909/80996000-c3b86b00-8e5c-11ea-9f20-368fef55cc0c.png)
-4. You can even create your own trail, but it is better to use the default one provided by AWS.
-## [For more info on CloudTrial](https://aws.amazon.com/cloudtrail/)
+4. You can even create your own trail, but it is better to use the default trail provided by AWS.
+### [For more info on CloudTrial](https://aws.amazon.com/cloudtrail/)
