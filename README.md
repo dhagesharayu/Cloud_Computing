@@ -14,7 +14,11 @@ different types of clouds such as:
   - *for example if Vita had an hybrid cloud than the private part would be for the employees and the public part would be                     for students.*\
 All the above mentioned clouds have to be payed for.
 ---
-## Advantages
+
+<details open>
+<summary>Advantages</summary>
+<br>
+
 1. Lower cost:
   - *as rent is pay as you go and not on contract.*
   - *It is calculate on per hour basis and also what resources you are using and for how much time.*
@@ -22,6 +26,8 @@ All the above mentioned clouds have to be payed for.
 3. Provides faster processing and download speed, free internet, electricity as long as you are using it(running).
 4. Faster development and deployment.
 5. Outsource management, administration(backend) handled by provider of cloud computing services.
+</details>
+
 
 ### [Some of the Services Available](https://github.com/dhagesharayu/Cloud_Computing/tree/Services)
 ### [Guide to execute python programs on linux terminal with some examples](https://github.com/dhagesharayu/Cloud_Computing/tree/Python_on_linux)
