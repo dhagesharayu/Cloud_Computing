@@ -1,4 +1,8 @@
-# SNS
+# SNS(Simple Notification Service)
+
+
+
+## 
 1. Login into your aws console and search for SNS in your service search bar.
 
 ![image](https://user-images.githubusercontent.com/63589909/81083064-bc06ce00-8f11-11ea-887e-f4e8d47aec53.png)
@@ -47,31 +51,30 @@
 ![image](https://user-images.githubusercontent.com/63589909/81182723-d7361400-8fcb-11ea-95c8-5fbd983c4a69.png)
 
  
-
 12. Copy the Role ARN as it is and paste it, as shown in step 10.
+
+![image](https://user-images.githubusercontent.com/63589909/81812621-0573a080-9544-11ea-80a2-597a984fc985.png)
  
-13.Copy this also as shown in step ten. 
+13. Copy this also as shown in step ten. 
  
-14.Scroll down and click on create topic.
+![image](https://user-images.githubusercontent.com/63589909/81812667-158b8000-9544-11ea-9978-806dd8711f62.png)
+ 
+14. Scroll down and click on create topic.
+
+![image](https://user-images.githubusercontent.com/63589909/81812787-3b188980-9544-11ea-8b91-70abd0130ed9.png)
  
 15. Now click on topic in top left corner, you will see your created topic.
+
+![image](https://user-images.githubusercontent.com/63589909/81812810-466bb500-9544-11ea-8b6b-a0f9f1cbc45a.png)
  
 16.Scroll down and click on create Subscription.
 
 
+![image](https://user-images.githubusercontent.com/63589909/81812846-508db380-9544-11ea-9d06-105b2d6a4979.png)
 
+17. Choose Everyone for who can subscribe as we want user to receive an email.
 
-
-
-
-
-
-
-
-
-
-
-6.Choose Everyone for who can subscribe as we want user to receive an email.
+![image](https://user-images.githubusercontent.com/63589909/81812970-80d55200-9544-11ea-93d2-caa4f9e9dce5.png)
  
 7. Delivery retry policy and tags are optional as we are sending an email.
  
